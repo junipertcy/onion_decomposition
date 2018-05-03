@@ -1,4 +1,4 @@
-# Onion Decomposition [![License](https://img.shields.io/badge/license-GPL-green.svg?style=flat)](https://github.com/junipertcy/onion-decomposition/blob/master/LICENSE) [![Build Status](https://travis-ci.org/junipertcy/networkie.svg?branch=master)](https://travis-ci.org/junipertcy/onion-decomposition)
+# Onion Decomposition [![License](https://img.shields.io/badge/license-GPL-green.svg?style=flat)](https://github.com/junipertcy/onion_decomposition/blob/master/LICENSE) [![Build Status](https://travis-ci.org/junipertcy/onion_decomposition.svg?branch=master)](https://travis-ci.org/junipertcy/onion_decomposition)
 
 
 ## Example usage

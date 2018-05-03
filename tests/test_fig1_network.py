@@ -1,3 +1,5 @@
+# Adjacency matrix for the graph of Fig. 1 in Ref. 1, specifically:
+#
 #       9--8--10        11-----      15
 #          |            |     |      |
 # 0--1--2--3--4--5------6-----7------14

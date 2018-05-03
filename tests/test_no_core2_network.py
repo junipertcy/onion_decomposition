@@ -1,3 +1,5 @@
+# Adjacency matrix for the following graph which has cores of "coreness" 1 and 3, but none of 2.
+#
 #      1-----
 #     / \   |
 # 4--0---3  |
